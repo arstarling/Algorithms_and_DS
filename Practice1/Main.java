@@ -2,27 +2,23 @@ import java.util.Scanner;
 
 class ArrayOperations {
     static void reverseArray(int[] array) {
-        // Реализация метода reverseArray
     }
 }
 
 class ArraySumAverage {
     static double calculateAverage(int[] array) {
-        // Реализация метода calculateAverage
         return 0.0;
     }
 }
 
 class FactorialCalculatorWithInput {
     static int calculateFactorial(int n) {
-        // Реализация метода calculateFactorial
         return 0;
     }
 }
 
 class HarmonicSeries {
     static double calculateHarmonicSeries(int n) {
-        // Реализация метода calculateHarmonicSeries
         return 0.0;
     }
 }
@@ -43,19 +39,15 @@ public class Main {
 
             switch (choice) {
                 case 1:
-                    // Вместо вызова функции, напишите здесь код для вызова метода reverseArray
                     System.out.println("Performing Reverse Array operation");
                     break;
                 case 2:
-                    // Вместо вызова функции, напишите здесь код для вызова метода calculateAverage
                     System.out.println("Performing Calculate Average operation");
                     break;
                 case 3:
-                    // Вместо вызова функции, напишите здесь код для вызова метода calculateFactorial
                     System.out.println("Performing Calculate Factorial operation");
                     break;
                 case 4:
-                    // Вместо вызова функции, напишите здесь код для вызова метода calculateHarmonicSeries
                     System.out.println("Performing Calculate Harmonic Series operation");
                     break;
                 case 0:
